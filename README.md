@@ -5,7 +5,7 @@ This repository contains a collection of labs and a final project completed for 
 ## 📂 Contents
 
 - `LAB(X)/` — A set of Jupyter notebooks, dataset and report from weekly lab sessions.
-- `FINALPROJECT/` — A comprehensive project integrating techniques from the course. It includes:
+- `FINALPROJECT/` — A comprehensive project integrating techniques learned from the course.
 
 
 ## 🧪 Lab Summaries
